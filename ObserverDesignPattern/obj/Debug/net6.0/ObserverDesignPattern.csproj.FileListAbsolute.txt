@@ -1,0 +1,15 @@
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net6.0\ObserverDesignPattern.exe
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net6.0\ObserverDesignPattern.deps.json
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net6.0\ObserverDesignPattern.runtimeconfig.json
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net6.0\ObserverDesignPattern.dll
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net6.0\ObserverDesignPattern.pdb
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.csproj.AssemblyReference.cache
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.AssemblyInfoInputs.cache
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.AssemblyInfo.cs
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.dll
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\refint\ObserverDesignPattern.dll
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.pdb
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.genruntimeconfig.cache
+E:\GitHub_Project\ObserverDesignPattern\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ref\ObserverDesignPattern.dll
