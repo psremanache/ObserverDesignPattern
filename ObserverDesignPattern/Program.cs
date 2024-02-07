@@ -4,15 +4,19 @@
     {
         static void Main(string[] args)
         {
-            IPhoneStore iphoneStore = new IPhoneStore();
-            User user1 = new User();
-            User user2 = new User();
-            User user3 = new User();
-            user1.Subscribe(iphoneStore);
-            user2.Subscribe(iphoneStore);
-            user3.Subscribe(iphoneStore);
-            user2.Unsubscribe(iphoneStore);
-            iphoneStore.UpdateData(10);
+            ItemStore iphoneStore = new ItemStore("IPHONE");
+            User bangloreUser = new User();
+            User puneUser = new User();
+            User kolkataUser = new User();
+            bangloreUser.Subscribe(iphoneStore);
+            puneUser.Subscribe(iphoneStore);
+            kolkataUser.Subscribe(iphoneStore);
+            ItemStore samsungStore = new ItemStore("Samsung");
+            puneUser.Unsubscribe(iphoneStore);
+            kolkataUser.Subscribe(samsungStore);
+            puneUser.Subscribe(samsungStore);
+            iphoneStore.UpdateData(25);
+            samsungStore.UpdateData(14);
         }
     }
 }

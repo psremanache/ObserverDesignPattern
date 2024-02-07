@@ -8,11 +8,11 @@ namespace ObserverDesignPattern
 {
     public class User:IObserver
     {
-
-        public void SendMessage(int noOfIphones)
+        public void NotifyUser(IObservate observate)
         {
-            Console.WriteLine("New Iphone stock is introduced {0}", noOfIphones);
+            Console.WriteLine("{0} product is filled with new {1} items", observate.GetName(), observate.GetItemsCount());
         }
+
         public void Subscribe(IObservate observate)
         {
             observate.AddObserver(this);

@@ -12,5 +12,8 @@ namespace ObserverDesignPattern
         public void RemoveObserver(IObserver observer);
         public void UpdateData(int data);
         public void NotifyAllObserver();
+        public string GetName();
+        public int GetItemsCount();
+
     }
 }
